@@ -5,3 +5,4 @@ Scenario 2:Enter the User details
 // Gowda
 Scenario 3: Enter the User details
 >>>>>>> ModuleFile
+Senario 4 : Enter the passwords
